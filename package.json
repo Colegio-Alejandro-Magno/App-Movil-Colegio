@@ -1,14 +1,14 @@
 {
-  "name": "moodlemobile",
+  "name": "colegioalejandromagno",
   "version": "3.9.5",
-  "description": "The official app for Moodle.",
+  "description": "Conquistando el conocimiento de nuestro mundo",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Instituto Educativo Colegio Alejandro Magno",
+    "email": "Roy@colegioalejandromagno.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/moodlehq/moodlemobile2.git"
+    "url": "https://github.com/Colegio-Alejandro-Magno/App-Movil-Colegio"
   },
   "license": "Apache-2.0",
   "licenses": [
